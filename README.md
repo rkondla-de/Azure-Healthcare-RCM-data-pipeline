@@ -6,3 +6,4 @@ Bronze Layer: Raw data collection.
 Silver Layer: Cleaned and enriched data.
 Gold Layer: Data structured into fact and dimension tables.
 The pipeline supports both full and incremental data loads with consistent logging for auditing purposes.
+![Architecture Diagram](Architecture%20Diagram.png)
